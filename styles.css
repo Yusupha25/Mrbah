@@ -25,3 +25,15 @@ color: blanchedalmond;
 h6{
     color: brown;
 }
+p{
+    color: blueviolet;
+    padding: 16px;
+}
+#first{
+   color: blue;
+   padding: 24Ppx;
+}
+#second{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: palevioletred;
+}
